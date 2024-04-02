@@ -1,5 +1,5 @@
 gunicorn
-flask ** 2.3.1
+flask == 2.3.1
 google-generativeai
 pysqlite3
 openai
